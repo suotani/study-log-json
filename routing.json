@@ -100,6 +100,15 @@
     ]
   },
   {
+    "name": "haskell3",
+    "title": "Haskell(ファンクタ、モノイド、モナド)",
+    "topics": [
+      {"title": "ファンクターとしてのIO", "id": "220"},
+      {"title": "ファンクターとしての関数", "id": "222"},
+      {"title": "ファンクター則", "id": "224"}
+    ]
+  },
+  {
     "name": "category",
     "title": "圏論",
     "topics": [
