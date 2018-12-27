@@ -14,6 +14,17 @@
     ]
   },
   {
+    "name": "graspy-ai-1",
+    "title": "機械学習-Graspy-",
+    "topics": [
+      {"title": "第3次AIブームとは何か", "id": "242"},
+      {"title": "Watsonの概要", "id": "244"},
+      {"title": "watsonの利用", "id": "246"},
+      {"title": "Visual Recognition（画像認識）", "id": "248"},
+      {"title": " Toolkitで独自の画像認識モデルを作る", "id": "250"}
+    ]
+  },
+  {
     "name": "haskell",
     "title": "Haskell(関数合成まで)",
     "topics": [
