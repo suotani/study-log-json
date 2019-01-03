@@ -124,7 +124,13 @@
       {"title": "アプリカティブとしてのIO", "id": "234"},
       {"title": "アプリカティブとしての関数", "id": "236"},
       {"title": "アプリカティブの便利な関数・型(liftA2, ZipList)", "id": "241"},
-      {"title": "newtype", "id": "255"}
+      {"title": "newtype", "id": "255"},
+      {"title": "newtypeで型クラスのインスタンスを作る", "id": "262"},
+      {"title": "newtypeと遅延評価", "id": "264"},
+      {"title": "Monoid型クラス", "id": "270"},
+      {"title": "一つの型から複数のモノイドを作る", "id": "272"},
+      {"title": "Orderingモノイド", "id": "275"},
+      {"title": "Maybeモノイド", "id": "277"}
     ]
   },
   {
