@@ -137,7 +137,22 @@
       {"title": "do記法", "id": "295"},
       {"title": "do記法のパターンマッチ", "id": "297"},
       {"title": "リストモナド", "id": "299"},
-      {"title": "MonadPlusとguard関数", "id": "301"}
+      {"title": "MonadPlusとguard関数", "id": "301"},
+      {"title": "モナド則", "id": "303"}
+    ]
+  },
+  {
+    "name": "sales",
+    "title": "営業",
+    "topics": [
+      {"title": "日本の営業がアップデートすべきこと", "id": ""},
+    ]
+  },
+  {
+    "name": "tutaekata",
+    "title": "伝え方が９割",
+    "topics": [
+      {"title": "ノーをイエスに変える３ステップ", "id": "70"},
     ]
   },
   {
